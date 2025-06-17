@@ -1,5 +1,5 @@
 
-# CDS6324 Assignment 2: Data Science Job Market Visualization in 2025
+# Data Science Job Market Visualization in 2025
 
 ## About This Project
 
