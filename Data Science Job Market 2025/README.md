@@ -1,6 +1,8 @@
 
 # Data Science Job Market Visualization in 2025
 
+<img src="https://github.com/amiraraina/website/blob/main/Project/Project1.png" alt="Data Science Project" width="400">
+
 ## About This Project
 
 This project was completed for **CDS6324 — Data Visualization**. It explores trends in data science jobs worldwide in 2025, using an extensive Kaggle dataset of **93,597 job postings**.  
