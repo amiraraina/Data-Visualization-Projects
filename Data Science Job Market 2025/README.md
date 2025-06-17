@@ -38,8 +38,8 @@ This bar chart illustrates the **Average Salary (USD)** by experience level and 
 
 The 2025 Data Science job market indicates:
 - **High demand for tech roles** related to data science, AI, and ML.
-- **North America (especially the US)** stands out for offering top salaries and remote work options — thanks to tech hubs like Silicon Valley and companies like Google, Amazon, Microsoft, and Apple.
-- Remote work has become mainstream, with companies globally competing for senior talent without compromising on compensation.
+- **North America (especially the US)** stands out for offering top salaries and remote work options thanks to tech hubs like Silicon Valley and companies like Google, Amazon, Microsoft, and Apple.
+- However, as remote work become more mainstream, companies around the world mostly look into hiring senior talent without compromising on compensation.
 
 
 ## Contributors
