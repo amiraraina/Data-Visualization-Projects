@@ -25,9 +25,7 @@ As upcoming graduates entering the tech industry, this analysis helps us (and ot
 This chart highlights **Top-Paying Countries and Remote Opportunities**.  
 Key findings:
 - **North America** leads with the highest salaries and the most remote job offers (nearly 4,000).
-- Europe shows comparatively lower salaries and flexibility.
-- Africa and Southeast Asia fall in the mid-range.
-- **Red = High Salary | Blue = Low Salary | Numbers = Remote Job Ratio**
+- **Red = High Salary | Blue = Low Salary | Circle = Remote Job Ratio**
 
 ### Salary Trends by Experience Level and Contract Type
 
