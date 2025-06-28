@@ -1,6 +1,6 @@
 # My Portfolio
 
-## Electric Car Global Race Analysis
+## Electric Vehicles Global Race Analysis Using D3.js
 
 <img src="https://github.com/amiraraina/website/blob/main/Project/EV1.png" alt="EV Project" width="400">
 
