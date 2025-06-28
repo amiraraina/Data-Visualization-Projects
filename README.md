@@ -1,6 +1,6 @@
 # My Portfolio
 
-## EV Trends Project
+## Electric Car Global Race Analysis
 
 <img src="https://github.com/amiraraina/website/blob/main/Project/EV1.png" alt="EV Project" width="400">
 
