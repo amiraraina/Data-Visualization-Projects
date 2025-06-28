@@ -54,7 +54,7 @@ This interactive Tableau dashboard provides comprehensive insights into U.S. air
 - Which airports in this state handle the most passengers?
 - How does passenger demand fluctuate over the years?
 
-2 Revenue Insights:
+2. Revenue Insights:
 - Which airports generate the highest revenue in this state?
 - What are the top 5 most profitable routes from this state?
 
