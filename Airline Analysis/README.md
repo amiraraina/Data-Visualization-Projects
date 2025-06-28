@@ -36,3 +36,34 @@ This interactive Tableau dashboard provides comprehensive insights into U.S. air
 - **Time Filtering**: Adjust date ranges to focus on specific periods
 - **Tooltip Details**: Hover over any visualization for detailed metrics
 - **Cross-Filtering**: Selections in one visualization affect others
+
+## Plausible Questions
+#### National-Level Insights
+1. Operational Performance:
+- How many airports operate in the U.S.?
+- What is the total annual passenger volume and flight count?
+- Which states have the highest/lowest aviation activity?
+
+2. Financial Performance:
+- What is the average revenue generated per airport nationally?
+- How does revenue distribution compare across states?
+
+#### State-Specific Analysis (When a state is selected)
+1. Operational Metrics:
+- How many flights originate/arrive in this state?
+- Which airports in this state handle the most passengers?
+- How does passenger demand fluctuate over the years?
+
+2 Revenue Insights:
+- Which airports generate the highest revenue in this state?
+- What are the top 5 most profitable routes from this state?
+
+3. Temporal Trends (Line Graph)
+- How has passenger demand for specific destinations changed over time?
+- Which destinations are the most popular?
+
+4. Geographic Patterns (Choropleth Map)
+- Which states are the busiest aviation hubs?
+
+5. Route Optimization
+- Which routes are the most lucrative for airlines?
