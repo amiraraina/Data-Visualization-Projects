@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Rise of Electrical Vehicle</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <h1>The Rise of Electrical Vehicle</h1>
+    <h5 id="pageSubtitle">Around The World</h5>
+
+    <!-- Dashboard Page 1 -->
+    <div class="dashboard active" id="dashboard1">
+        <!-- Chart 1 -->
+        <div id="heatmap-top-panel">
+            <div id="heatmap-controls">
+                <label for="yearSlider">Year: <span id="yearLabel">2010</span></label>
+                <input type="range" id="yearSlider" min="2010" max="2024" value="2010" step="1">
+                <button id="startAnimation">Start Animation</button>
+                <div id="heatmap-legend"></div>
+            </div>
+            How many new electric cars are sold each year?
+            <div id="heatmap"></div>
+        </div>
+
+    </div>
+
+    <!-- ---------- JAVASCRIPT CODE -------------- -->
+    <!-- Load D3 + TopoJSON -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v3.min.js"></script>
+    <script src="js/1heatmap.js"></script>
+
+</body>
+
+</html>
